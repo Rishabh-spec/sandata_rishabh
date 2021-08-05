@@ -1,0 +1,6 @@
+module Pods_Sandata {
+  umbrella header "Pods-Sandata-umbrella.h"
+
+  export *
+  module * { export * }
+}

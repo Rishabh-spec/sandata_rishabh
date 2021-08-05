@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Sandata.iml" filepath="$PROJECT_DIR$/.idea/modules/Sandata.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Sandata.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Sandata.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/20077850/Sandata.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/20077850/Sandata.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/201259202/Sandata.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/201259202/Sandata.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1528654077/Sandata.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/-1528654077/Sandata.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1132769573/Sandata.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/-1132769573/Sandata.react-native-screens.iml" />
+    </modules>
+  </component>
+</project>

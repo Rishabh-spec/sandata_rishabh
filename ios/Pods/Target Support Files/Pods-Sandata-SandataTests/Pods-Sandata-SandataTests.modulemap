@@ -1,0 +1,6 @@
+module Pods_Sandata_SandataTests {
+  umbrella header "Pods-Sandata-SandataTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,9 @@
+com/sandata/MainApplication.java
+ com.sandata.MainApplication
+ com.sandata.MainApplication$1
+com/sandata/MainActivity.java
+ com.sandata.MainActivity
+com/sandata/BuildConfig.java
+ com.sandata.BuildConfig
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
